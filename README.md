@@ -1,0 +1,4 @@
+imageRandomForSpeakSuddenly
+===========================
+
+โปรแกรมพูดฉับพลัน
